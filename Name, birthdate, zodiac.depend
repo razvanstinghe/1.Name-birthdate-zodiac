@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733864772 source:d:\cursuri\programare\c++\beginner\curs c++\main.cpp
+	<iostream>
+	<string>
+
+1733864772 source:d:\cursuri\programare\c++\name, birthdate and zidiac sign\main.cpp
+	<iostream>
+	<string>
+

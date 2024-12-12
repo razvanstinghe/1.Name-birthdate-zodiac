@@ -14,6 +14,10 @@ int main() {
   int month_birthdate;
   int year_birthdate;
 
+  cout << "Hello. Please fill-in some information to see how this works. " << endl;
+  cout << endl;
+  cout << "You have to write some names (Last, Middle-if the case and First name), as well as the birth date and it will display your inputs and the zodiac sign. The information will NOT be stored. " << endl;
+  cout << endl;
   cout << "Fill-in your Last Name: " << endl;
   getline (cin, myLastName);
 
